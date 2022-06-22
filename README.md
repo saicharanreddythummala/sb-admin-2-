@@ -1,6 +1,6 @@
 # SB Admin 2 dashboard integrated to react- Task
 
-### Netlify: https://app.netlify.com/sites/cheerful-biscotti-5f0eb9/overview
+### Netlify: (https://cheerful-biscotti-5f0eb9.netlify.app)
 
 # Getting Started with Create React App
 
